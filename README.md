@@ -1,8 +1,3 @@
-
-# Basic Mechanical Engineering Website
-
-Description
-
 # Basic Mechanical Engineering Website
 
 Description
