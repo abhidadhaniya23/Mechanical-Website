@@ -1,0 +1,25 @@
+{
+  "name": "BME-Website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "build": "postcss ./public/css/tailwind.css -o ./public/css/style.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.3.4",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "postcss": "^8.3.6",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.2.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "description": ""
+}
