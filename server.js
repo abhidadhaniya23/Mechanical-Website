@@ -5,9 +5,14 @@ const port = 3000
 app.set('view engine', 'ejs')
 app.use(express.static('public'))
 
-app.get('/', (req, res) => {
-	res.render('index.ejs')
-})
+// Routes
+const chapter = require('./routes/chapter')
+
+app.use('/', chapter)
+
+// app.get('/', (req, res) => {
+// 	res.render('index.ejs')
+// })
 app.listen(port, () => {
 	console.log(`Example app listening at http://localhost:${port}`)
 })
