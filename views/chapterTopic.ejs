@@ -10,9 +10,9 @@
                 <iframe class="w-[100%] max-w-screen-lg h-[100%] mx-auto" src="https://www.youtube.com/embed/1l3yILJxsfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <div class="w-auto md:w-1/4 flex flex-col justify-center">
-                <div class="bg-gray-700 text-4xl p-5 text-white text-center font-semibold">Next Topics</div>
+                <div class="bg-gray-700 text-4xl md:text-4xl py-4 md:py-5 text-white text-center font-medium md:font-semibold">Next Topics</div>
                 <% bmeJsonData.forEach(element=> { %>
-                <div class="text-xs p-3 topic-list text-gray-700 flex flex-row justify-start">
+                <div class="text-base md:text-xs p-3 topic-list text-gray-700 flex flex-row justify-start">
                     <div class="mr-1.5 relative bottom-0.5"><i class="fa fa-chevron-circle-right text-base text-gray-400"></i></div>
                     <a href="/chapter/topic/<%=element.id%>"> <%=element.title%></a>
                 </div>
