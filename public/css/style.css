@@ -1,4 +1,8 @@
-/*! tailwindcss v2.2.15 | MIT License | https://tailwindcss.com *//*! modern-normalize v1.1.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600&display=swap');
+
+/*! tailwindcss v2.2.15 | MIT License | https://tailwindcss.com */
+
+/*! modern-normalize v1.1.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
 
 /*
 Document
@@ -297,7 +301,9 @@ Add the correct display in Chrome and Safari.
 
 summary {
 	display: list-item;
-}/**
+}
+
+/**
  * Manually forked from SUIT CSS Base: https://github.com/suitcss/base
  * A thin layer on top of normalize.css that provides a starting point more
  * suitable for web applications.
@@ -355,7 +361,6 @@ html {
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 1 */
   line-height: 1.5; /* 2 */
 }
-
 
 /**
  * Inherit font-family and line-height from `html` so users can set them as
@@ -456,7 +461,7 @@ button,
  * as it triggers the better focus styles even for links, which still use a dotted
  * outline in Firefox by default.
  */
- 
+
 :-moz-focusring {
 	outline: auto;
 }
@@ -566,75 +571,140 @@ video {
 [hidden] {
   display: none;
 }
-.mx-auto {
+.relative{
+	position: relative;
+}
+.bottom-0\.5{
+	bottom: 0.125rem;
+}
+.bottom-0{
+	bottom: 0px;
+}
+.m-4{
+	margin: 1rem;
+}
+.mx-auto{
 	margin-left: auto;
 	margin-right: auto;
 }
-.my-1 {
-	margin-top: 0.25rem;
-	margin-bottom: 0.25rem;
+.mr-1\.5{
+	margin-right: 0.375rem;
 }
-.flex {
+.mr-1{
+	margin-right: 0.25rem;
+}
+.flex{
 	display: flex;
 }
-.h-64 {
+.h-64{
 	height: 16rem;
 }
-.h-\[100\%\] {
+.h-\[100\%\]{
 	height: 100%;
 }
-.h-96 {
-	height: 24rem;
-}
-.w-screen {
+.w-screen{
 	width: 100vw;
 }
-.w-\[100\%\] {
+.w-\[100\%\]{
 	width: 100%;
 }
-.w-auto {
+.w-auto{
 	width: auto;
 }
-.max-w-screen-lg {
+.max-w-screen-lg{
 	max-width: 1024px;
 }
-.flex-col {
+.flex-row{
+	flex-direction: row;
+}
+.flex-col{
 	flex-direction: column;
 }
-.justify-center {
+.justify-start{
+	justify-content: flex-start;
+}
+.justify-center{
 	justify-content: center;
 }
-.bg-black {
+.bg-black{
 	--tw-bg-opacity: 1;
 	background-color: rgba(0, 0, 0, var(--tw-bg-opacity));
 }
-.bg-green-200 {
+.bg-gray-700{
+	--tw-bg-opacity: 1;
+	background-color: rgba(55, 65, 81, var(--tw-bg-opacity));
+}
+.bg-green-200{
 	--tw-bg-opacity: 1;
 	background-color: rgba(167, 243, 208, var(--tw-bg-opacity));
 }
-.bg-gray-800 {
-	--tw-bg-opacity: 1;
-	background-color: rgba(31, 41, 55, var(--tw-bg-opacity));
+.p-5{
+	padding: 1.25rem;
 }
-@media (min-width: 768px) {
+.p-3{
+	padding: 0.75rem;
+}
+.text-center{
+	text-align: center;
+}
+.font-inter{
+	font-family: Inter;
+}
+.text-4xl{
+	font-size: 2.25rem;
+	line-height: 2.5rem;
+}
+.text-xs{
+	font-size: 0.75rem;
+	line-height: 1rem;
+}
+.text-base{
+	font-size: 1rem;
+	line-height: 1.5rem;
+}
+.font-semibold{
+	font-weight: 600;
+}
+.text-white{
+	--tw-text-opacity: 1;
+	color: rgba(255, 255, 255, var(--tw-text-opacity));
+}
+.text-gray-700{
+	--tw-text-opacity: 1;
+	color: rgba(55, 65, 81, var(--tw-text-opacity));
+}
+.text-gray-400{
+	--tw-text-opacity: 1;
+	color: rgba(156, 163, 175, var(--tw-text-opacity));
+}
 
-	.md\:h-auto {
+.topic-list:nth-child(odd){
+	--tw-bg-opacity: 1;
+	background-color: rgba(249, 250, 251, var(--tw-bg-opacity));
+}
+.topic-list:nth-child(even){
+	--tw-bg-opacity: 1;
+	background-color: rgba(243, 244, 246, var(--tw-bg-opacity));
+}
+@media (min-width: 768px){
+
+	.md\:h-auto{
 		height: auto;
 	}
 
-	.md\:max-h-\[80vh\] {
+	.md\:max-h-\[80vh\]{
 		max-height: 80vh;
 	}
 
-	.md\:w-3\/4 {
+	.md\:w-3\/4{
 		width: 75%;
 	}
 
-	.md\:w-1\/4 {
+	.md\:w-1\/4{
 		width: 25%;
 	}
 
-	.md\:flex-row {
+	.md\:flex-row{
 		flex-direction: row;
 	}
 }

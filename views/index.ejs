@@ -1,24 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="UTF-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>BME</title>
-        <link rel="stylesheet" href="css/style.css" />
+        <%- include('./partials/head.ejs');%>
+        <title>MAIN PAGE Index</title>
     </head>
     <body>
-        <div class="flex flex-col md:flex-row justify-center">
-            <div class="w-screen md:w-3/4 h-64 md:h-auto md:max-h-[80vh] bg-black">
-                <iframe class="w-[100%] max-w-screen-lg h-[100%] mx-auto" src="https://www.youtube.com/embed/1l3yILJxsfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-            <div class="w-auto md:w-1/4 h-96 bg-green-200 flex flex-col justify-center">
-                <% chapterJsonData.forEach(element=> { %>
-                <div class="bg-gray-800 my-1">
-                    <a href="/chapter/<%=element.id%>"> <%=element.title%></a>
-                </div>
-                <% }) %>
-            </div>
+        <% chapterJsonData.forEach(element=> { %>
+        <div class="bg-green-200 m-4">
+            <a href="/chapter/<%= element.id%>">
+                <h1><%=element.chapter%></h1>
+            </a>
         </div>
+        <% }) %>
     </body>
 </html>

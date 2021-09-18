@@ -1,32 +1,42 @@
 [
     {
-        "chapter": "Introduction"
+        "chapter": "Introduction",
+        "id": "Introduction"
     },
     {
-        "chapter": "Properties of Gases"
+        "chapter": "Properties of Gases",
+        "id": "Properties-of-Gases"
     },
     {
-        "chapter": "Steam Generation"
+        "chapter": "Steam Generation",
+        "id": "Steam-Generation"
     },
     {
-        "chapter": " Steam Generator (Boiler)"
+        "chapter": " Steam Generator (Boiler)",
+        "id": " Steam-Generator-(Boiler)"
     },
     {
-        "chapter": "Heat Engines"
+        "chapter": "Heat Engines",
+        "id": "Heat-Engines"
     },
     {
-        "chapter": "Internal Combustion Engines"
+        "chapter": "Internal Combustion Engines",
+        "id": "Internal-Combustion-Engines"
     },
     {
-        "chapter": "Pumps"
+        "chapter": "Pumps",
+        "id": "Pumps"
     },
     {
-        "chapter": "Air Compressor"
+        "chapter": "Air Compressor",
+        "id": "Air-Compressor"
     },
     {
-        "chapter": "Refrigeration and Air Conditioning"
+        "chapter": "Refrigeration and Air Conditioning",
+        "id": "Refrigeration-and-Air-Conditioning"
     },
     {
-        "chapter": "Power Transmission"
+        "chapter": "Power Transmission",
+        "id": "Power-Transmission"
     }
 ]
