@@ -5,12 +5,11 @@
         <title>MAIN PAGE Index</title>
     </head>
     <body>
-        <% chapterJsonData.forEach(element=> { %>
-        <div class="bg-green-200 m-4">
-            <a href="/chapter/<%= element.id%>">
+        <% chaptersArr.forEach(element=>{ %>
+            <a href="/topic/<%= element.id%>">
                 <h1><%=element.chapter%></h1>
             </a>
-        </div>
         <% }) %>
+
     </body>
 </html>

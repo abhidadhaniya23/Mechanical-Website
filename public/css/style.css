@@ -580,9 +580,6 @@ video {
 .bottom-0{
 	bottom: 0px;
 }
-.m-4{
-	margin: 1rem;
-}
 .mx-auto{
 	margin-left: auto;
 	margin-right: auto;
@@ -633,10 +630,6 @@ video {
 .bg-gray-700{
 	--tw-bg-opacity: 1;
 	background-color: rgba(55, 65, 81, var(--tw-bg-opacity));
-}
-.bg-green-200{
-	--tw-bg-opacity: 1;
-	background-color: rgba(167, 243, 208, var(--tw-bg-opacity));
 }
 .p-3{
 	padding: 0.75rem;

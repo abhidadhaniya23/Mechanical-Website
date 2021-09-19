@@ -3,783 +3,756 @@
         "chapter": "Introduction",
         "content": "Concept of System",
         "title": "System, Surroundings, Boundary, Types of System, Examples, Basic Mechanical Engineering",
-        "youtubeLink": "https://youtu.be/8r82OXAzPNc",
+        "youtubeLink": "https://www.youtube.com/embed/8r82OXAzPNc",
         "id": "Concept-of-System"
     },
     {
         "chapter": "Introduction",
         "content": "Change of state, Path, Process, Cycle",
         "title": "Working Fluid, Intensive Property, Extensive Property, Change of state, Path, Process, Cycle.",
-        "youtubeLink": "https://youtu.be/NbsWIUrzf8I",
+        "youtubeLink": "https://www.youtube.com/embed/NbsWIUrzf8I",
         "id": "Change-of-state,-Path,-Process,-Cycle"
     },
     {
         "chapter": "Introduction",
         "content": "Force, Weight, Mass",
         "title": "Force, Weight, Mass",
-        "youtubeLink": "https://youtu.be/b9vyKf3w6uw",
+        "youtubeLink": "https://www.youtube.com/embed/b9vyKf3w6uw",
         "id": "Force,-Weight,-Mass"
     },
     {
         "chapter": "Introduction",
         "content": "Pressure",
         "title": "Pressure, Measurement of Pressure, Atmospheric Pressure, System Pressure, Gauge Pressure, Absolute Pressure",
-        "youtubeLink": "https://youtu.be/mQ3O4WNQAyM",
+        "youtubeLink": "https://www.youtube.com/embed/mQ3O4WNQAyM",
         "id": "Pressure"
     },
     {
         "chapter": "Introduction",
         "content": "Temperature",
         "title": "Temperature, Different Temperature Scales, Absolute Zero Temperature, Numerical",
-        "youtubeLink": "https://youtu.be/NtGba4mDRLs",
+        "youtubeLink": "https://www.youtube.com/embed/NtGba4mDRLs",
         "id": "Temperature"
     },
     {
         "chapter": "Introduction",
         "content": "Work, Power, Energy",
-        "title": "Work, Power, Energy, High Grade Energy, Low Grade Energy, Energy in Transition, Stored Energy,\r\nPotential, Kinetic Energy",
-        "youtubeLink": "https://youtu.be/DkPJCdNuXas",
+        "title": "Work, Power, Energy, High Grade Energy, Low Grade Energy, Energy in Transition, Stored Energy, Potential, Kinetic Energy",
+        "youtubeLink": "https://www.youtube.com/embed/DkPJCdNuXas",
         "id": "Work,-Power,-Energy"
     },
     {
         "chapter": "Introduction",
         "content": "Heat",
-        "title": "Heat, Transfer of Heat, Change in State due to Heat Transfer, Boiling Point, Melting Point, Sign\r\nConversion for Heat and Work, Mechanical Equivalent of Heat,",
-        "youtubeLink": "https://youtu.be/rb8eIoSIg90",
+        "title": "Heat, Transfer of Heat, Change in State due to Heat Transfer, Boiling Point, Melting Point, Sign Conversion for Heat and Work, Mechanical Equivalent of Heat,",
+        "youtubeLink": "https://www.youtube.com/embed/rb8eIoSIg90",
         "id": "Heat"
     },
     {
         "chapter": "Introduction",
         "content": "Specific Heat",
         "title": "Specific Heat, Specific Heat at Const. Pressure and Const. Volume, Why Cp is always higher than Cv, Heat Capacity.",
-        "youtubeLink": "https://youtu.be/ZvQ_Vukk4Uk",
+        "youtubeLink": "https://www.youtube.com/embed/ZvQ_Vukk4Uk",
         "id": "Specific-Heat"
     },
     {
         "chapter": "Introduction",
-        "content": "Internal energy,\r\nEnthalpy, Entropy",
-        "title": "Internal energy, Enthalpy, Entropy,\r\nSpecific Gravity.",
-        "youtubeLink": "https://youtu.be/30BOKOkcn8s",
-        "id": "Internal-energy,\r\nEnthalpy,-Entropy"
+        "content": "Internal energy, Enthalpy, Entropy",
+        "title": "Internal energy, Enthalpy, Entropy, Specific Gravity.",
+        "youtubeLink": "https://www.youtube.com/embed/30BOKOkcn8s",
+        "id": "Internal-energy, Enthalpy,-Entropy"
     },
     {
         "chapter": "Introduction",
         "content": "Laws of Thermodynamics, Prime movers and its types",
         "title": "Laws of Thermodynamics, Zeroth Law, First Law for Closed system and Cyclic Process, Second Law, Kelvin Plank Statement, Clausius Statement, Third Law, Prime movers and its types",
-        "youtubeLink": "https://youtu.be/gGndknUVgnE",
+        "youtubeLink": "https://www.youtube.com/embed/gGndknUVgnE",
         "id": "Laws-of-Thermodynamics,-Prime-movers-and-its-types"
     },
     {
         "chapter": "Introduction",
         "content": "Numerical_Introduction",
         "title": "Numerical on Gauge Pressure and Absolute Pressure, Numerical on Potential Energy and Kinetic Energy",
-        "youtubeLink": "https://youtu.be/wTEp0noYQcs",
+        "youtubeLink": "https://www.youtube.com/embed/wTEp0noYQcs",
         "id": "Numerical-Introduction"
     },
     {
         "chapter": "Introduction",
         "content": "Numerical_Introduction",
-        "title": "Numerical on Absolute Pressure based on Barometer Reading and\r\nManometer/Vacuum Gauge Reading",
-        "youtubeLink": "https://youtu.be/HeAl2f5vueo",
+        "title": "Numerical on Absolute Pressure based on Barometer Reading and Manometer/Vacuum Gauge Reading",
+        "youtubeLink": "https://www.youtube.com/embed/HeAl2f5vueo",
         "id": "Numerical-Introduction"
     },
     {
-        "chapter": " Properties of Gases",
+        "chapter": "Properties of Gases",
         "content": "Boyle's law, Charles's law, Gay-Lussac’s law, Avogadro’s law, Combined gas law, Gas constant",
         "title": "STP and NTP, Boyle's law, Charles's law, Gay-Lussac’s law, Avogadro’s law, Combined gas law, Gas constant",
-        "youtubeLink": "https://youtu.be/_bleo2IYxV4",
+        "youtubeLink": "https://www.youtube.com/embed/_bleo2IYxV4",
         "id": "Boyle's-law,-Charles's-law,-Gay-Lussac’s-law,-Avogadro’s-law,-Combined-gas-law,-Gas-constant"
     },
     {
-        "chapter": " Properties of Gases"
-    },
-    {
-        "chapter": " Properties of Gases",
+        "chapter": "Properties of Gases",
         "content": "Universal Gas Equation",
-        "title": "Universal Gas Equation,\r\nUniversal Gas Constant",
-        "youtubeLink": "https://youtu.be/B8roOEFKWW8",
+        "title": "Universal Gas Equation, Universal Gas Constant",
+        "youtubeLink": "https://www.youtube.com/embed/B8roOEFKWW8",
         "id": "Universal-Gas-Equation"
     },
     {
-        "chapter": " Properties of Gases"
-    },
-    {
-        "chapter": " Properties of Gases",
+        "chapter": "Properties of Gases",
         "content": "Specific Heats, Relation between Cp and Cv.",
-        "title": "Specific Heat, Specific Heat at Const. Pressure and Const.\r\nVolume, Why Cp is always higher than Cv, Regnault’s Law, Relation Between Cp, Cv and R,",
-        "youtubeLink": "https://youtu.be/tXz4ysA6qyM",
+        "title": "Specific Heat, Specific Heat at Const. Pressure and Const. Volume, Why Cp is always higher than Cv, Regnault’s Law, Relation Between Cp, Cv and R,",
+        "youtubeLink": "https://www.youtube.com/embed/tXz4ysA6qyM",
         "id": "Specific-Heats,-Relation-between-Cp-and-Cv."
     },
     {
-        "chapter": " Properties of Gases",
+        "chapter": "Properties of Gases",
         "content": "Constant volume process, numerical",
         "title": "Constant Volume Process (Isochoric Process), Numerical on Constant Volume Process",
-        "youtubeLink": "https://youtu.be/DL7bzz-iJbc",
+        "youtubeLink": "https://www.youtube.com/embed/DL7bzz-iJbc",
         "id": "Constant-volume-process,-numerical"
     },
     {
-        "chapter": " Properties of Gases",
+        "chapter": "Properties of Gases",
         "content": "Constant pressure process, numerical",
         "title": "Constant Pressure Process (Isobaric Process), Numerical on Constant Pressure Process",
-        "youtubeLink": "https://youtu.be/D0IZleMlAH4",
+        "youtubeLink": "https://www.youtube.com/embed/D0IZleMlAH4",
         "id": "Constant-pressure-process,-numerical"
     },
     {
-        "chapter": " Properties of Gases",
+        "chapter": "Properties of Gases",
         "content": "Constant temperature process, numerical",
-        "title": "Constant Temperature Process (Isothermal Process), Numerical on Constant Temperature\r\nProcess.",
-        "youtubeLink": "https://youtu.be/q3iQCDqI04c",
+        "title": "Constant Temperature Process (Isothermal Process), Numerical on Constant Temperature Process.",
+        "youtubeLink": "https://www.youtube.com/embed/q3iQCDqI04c",
         "id": "Constant-temperature-process,-numerical"
     },
     {
-        "chapter": " Properties of Gases",
+        "chapter": "Properties of Gases",
         "content": "Adiabatic process",
         "title": "Adiabatic Process (Reversible Adiabatic Process, Isentropic Process), Law of Adiabatic Process.",
-        "youtubeLink": "https://youtu.be/I72x9PhxCJI",
+        "youtubeLink": "https://www.youtube.com/embed/I72x9PhxCJI",
         "id": "Adiabatic-process"
     },
     {
-        "chapter": " Properties of Gases",
+        "chapter": "Properties of Gases",
         "content": "Adiabatic process - numerical",
         "title": "Numerical on Adiabatic Process (Reversible Adiabatic Process, Isentropic Process",
-        "youtubeLink": "https://youtu.be/980zzJzu2Zc",
-        "id": "Adiabatic-process---numerical"
+        "youtubeLink": "https://www.youtube.com/embed/980zzJzu2Zc",
+        "id": "Adiabatic-process-numerical"
     },
     {
-        "chapter": " Properties of Gases",
+        "chapter": "Properties of Gases",
         "content": "Polytropic process",
-        "title": "Polytropic Process, Various Processes on Same P-v Diagram, Interrelationship between Heat\r\nTransfer, Work Done and Internal Energy.",
-        "youtubeLink": "https://youtu.be/ftKl8aay7hU",
+        "title": "Polytropic Process, Various Processes on Same P-v Diagram, Interrelationship between Heat Transfer, Work Done and Internal Energy.",
+        "youtubeLink": "https://www.youtube.com/embed/ftKl8aay7hU",
         "id": "Polytropic-process"
     },
     {
-        "chapter": " Properties of Gases",
+        "chapter": "Properties of Gases",
         "content": "Polytropic process - numerical",
         "title": "Numerical on Polytropic Process",
-        "youtubeLink": "https://youtu.be/q0NXv6e99ZM",
-        "id": "Polytropic-process---numerical"
+        "youtubeLink": "https://www.youtube.com/embed/q0NXv6e99ZM",
+        "id": "Polytropic-process-numerical"
     },
     {
-        "chapter": " Properties of Gases",
-        "content": "Properties of Gases -\r\nnumerical",
+        "chapter": "Properties of Gases",
+        "content": "Properties of Gases - numerical",
         "title": "Numerical on Polytropic Process",
-        "youtubeLink": "https://youtu.be/n48garwEl-8",
-        "id": "Properties-of-Gases--\r\nnumerical"
+        "youtubeLink": "https://www.youtube.com/embed/n48garwEl-8",
+        "id": "Properties-of-Gases-numerical"
     },
     {
         "chapter": "Steam Generation",
         "content": "Introduction",
         "title": "Difference Between Gas and Vapour, Application of Steam, Effect of Pressure on Boiling Point, Formation of Steam.",
-        "youtubeLink": "https://youtu.be/vZKj-8ghc7E",
+        "youtubeLink": "https://www.youtube.com/embed/vZKj-8ghc7E",
         "id": "Introduction"
     },
     {
         "chapter": "Steam Generation",
         "content": "Steam Formation - Types of steam, Enthalpy, Specific volume",
-        "title": "Steam Formation, Types of Steam, Specific Enthalpy and Specific Volume of Different Type of Steam, Dryness\r\nFraction, Wet Steam.",
-        "youtubeLink": "https://youtu.be/VZyy7_VSkyA",
-        "id": "Steam-Formation---Types-of-steam,-Enthalpy,-Specific-volume"
+        "title": "Steam Formation, Types of Steam, Specific Enthalpy and Specific Volume of Different Type of Steam, Dryness Fraction, Wet Steam.",
+        "youtubeLink": "https://www.youtube.com/embed/VZyy7_VSkyA",
+        "id": "Steam-Formation-Types-of-steam,-Enthalpy,-Specific-volume"
     },
     {
         "chapter": "Steam Generation",
         "content": "Use of steam tables",
-        "title": "Steam Formation, Critical Point,\r\nUnderstanding of Saturation Curve, Use of Steam Table",
-        "youtubeLink": "https://youtu.be/3vPH95cOUm8",
+        "title": "Steam Formation, Critical Point, Understanding of Saturation Curve, Use of Steam Table",
+        "youtubeLink": "https://www.youtube.com/embed/3vPH95cOUm8",
         "id": "Use-of-steam-tables"
     },
     {
         "chapter": "Steam Generation",
         "content": "Numerical – Specific Enthalpy",
         "title": "Numerical on Specific Enthalpy and Total Enthalpy of Wet Steam and Superheated Steam.",
-        "youtubeLink": "https://youtu.be/1FuOfS0lzDM",
+        "youtubeLink": "https://www.youtube.com/embed/1FuOfS0lzDM",
         "id": "Numerical-–-Specific-Enthalpy"
     },
     {
         "chapter": "Steam Generation",
         "content": "Numerical – Specific Volume",
         "title": "Numerical on Specific Volume and Total Volume of Wet Steam, Dry Steam and Superheated Steam, Determination of Condition of Steam.",
-        "youtubeLink": "https://youtu.be/zMu6HVS1Xbg",
+        "youtubeLink": "https://www.youtube.com/embed/zMu6HVS1Xbg",
         "id": "Numerical-–-Specific-Volume"
     },
     {
         "chapter": "Steam Generation",
         "content": "Density of Steam, numerical",
         "title": "Density of Different Type of Steam, Numerical on Density of Wet Steam, Dry Steam and Superheated Steam.",
-        "youtubeLink": "https://youtu.be/ZSce2j9OyYM",
+        "youtubeLink": "https://www.youtube.com/embed/ZSce2j9OyYM",
         "id": "Density-of-Steam,-numerical"
     },
     {
         "chapter": "Steam Generation",
         "content": "Internal Energy of Steam",
         "title": "External Work Done and Specific Internal Energy (Total Internal Energy) of Wet Steam, Dry Steam and Superheated Steam.",
-        "youtubeLink": "https://youtu.be/kEoAFB02Y4g",
+        "youtubeLink": "https://www.youtube.com/embed/kEoAFB02Y4g",
         "id": "Internal-Energy-of-Steam"
     },
     {
         "chapter": "Steam Generation",
         "content": "Numerical - Internal Energy of Steam",
         "title": "Numerical on Specific Internal Energy and Total Internal Energy of Wet Steam, Dry Steam and Superheated Steam.",
-        "youtubeLink": "https://youtu.be/8RQWquPyHV0",
-        "id": "Numerical---Internal-Energy-of-Steam"
-    },
-    {
-        "chapter": "Steam Generation"
+        "youtubeLink": "https://www.youtube.com/embed/8RQWquPyHV0",
+        "id": "Numerical-Internal-Energy-of-Steam"
     },
     {
         "chapter": "Steam Generation",
         "content": "Dryness fraction, Introduction to Calorimeter",
         "title": "Dryness Fraction of Wet Steam, Wetness Fraction, Different Methods to Determine Dryness Fraction of Wet Steam",
-        "youtubeLink": "https://youtu.be/w1g9eYjnnUo",
+        "youtubeLink": "https://www.youtube.com/embed/w1g9eYjnnUo",
         "id": "Dryness-fraction,-Introduction-to-Calorimeter"
     },
     {
         "chapter": "Steam Generation",
         "content": "Bucket Calorimeter",
         "title": "Construction and Working of Barrel/Bucket Calorimeter",
-        "youtubeLink": "https://youtu.be/7znM2jIvKY8",
+        "youtubeLink": "https://www.youtube.com/embed/7znM2jIvKY8",
         "id": "Bucket-Calorimeter"
     },
     {
         "chapter": "Steam Generation",
-        "content": "Numerical - Bucket\r\nCalorimeter",
+        "content": "Numerical - Bucket Calorimeter",
         "title": "Numerical on Barrel/Bucket Calorimeter",
-        "youtubeLink": "https://youtu.be/N6S2eo8etPM",
-        "id": "Numerical---Bucket\r\nCalorimeter"
+        "youtubeLink": "https://www.youtube.com/embed/N6S2eo8etPM",
+        "id": "Numerical-Bucket Calorimeter"
     },
     {
         "chapter": "Steam Generation",
         "content": "Separating Calorimeter",
         "title": "Construction and Working of Separating Calorimeter",
-        "youtubeLink": "https://youtu.be/1Jk8gl5QH74",
+        "youtubeLink": "https://www.youtube.com/embed/1Jk8gl5QH74",
         "id": "Separating-Calorimeter"
     },
     {
         "chapter": "Steam Generation",
-        "content": "Numerical - Separating\r\nCalorimeter",
+        "content": "Numerical - Separating Calorimeter",
         "title": "Numerical on Separating Calorimeter",
-        "youtubeLink": "https://youtu.be/JKjr65r4vgc",
-        "id": "Numerical---Separating\r\nCalorimeter"
+        "youtubeLink": "https://www.youtube.com/embed/JKjr65r4vgc",
+        "id": "Numerical-Separating Calorimeter"
     },
     {
         "chapter": "Steam Generation",
         "content": "Throttling Calorimeter",
         "title": "Construction and Working of Throttling Calorimeter",
-        "youtubeLink": "https://youtu.be/9MVqYtnVM9c",
+        "youtubeLink": "https://www.youtube.com/embed/9MVqYtnVM9c",
         "id": "Throttling-Calorimeter"
     },
     {
         "chapter": "Steam Generation",
         "content": "Numerical - Throttling Calorimeter",
         "title": "Numerical on Throttling Calorimeter",
-        "youtubeLink": "https://youtu.be/cDtI13gh_Gs",
-        "id": "Numerical---Throttling-Calorimeter"
+        "youtubeLink": "https://www.youtube.com/embed/cDtI13gh_Gs",
+        "id": "Numerical-Throttling-Calorimeter"
     },
     {
         "chapter": "Steam Generation",
         "content": "Combined Calorimeter",
-        "title": "Limitations of Separating and Throttling Calorimeter, Construction and Working of\r\nCombined Calorimeter",
-        "youtubeLink": "https://youtu.be/S9ogqIHz2fU",
+        "title": "Limitations of Separating and Throttling Calorimeter, Construction and Working of Combined Calorimeter",
+        "youtubeLink": "https://www.youtube.com/embed/S9ogqIHz2fU",
         "id": "Combined-Calorimeter"
     },
     {
         "chapter": "Steam Generation",
         "content": "Numerical - Combined Calorimeter",
         "title": "Numerical on Combined Calorimeter",
-        "youtubeLink": "https://youtu.be/54Iw6u_KPMM",
-        "id": "Numerical---Combined-Calorimeter"
+        "youtubeLink": "https://www.youtube.com/embed/54Iw6u_KPMM",
+        "id": "Numerical-Combined-Calorimeter"
     },
     {
-        "chapter": "Steam Generator (Boiler)",
+        "chapter": "Steam Generator Boiler",
         "content": "Boiler – Introduction",
-        "title": "Introduction to Boiler (Steam Generator), Classification of\r\nBoiler.",
-        "youtubeLink": "https://youtu.be/6Bw6HFni12o",
+        "title": "Introduction to Boiler (Steam Generator), Classification of Boiler.",
+        "youtubeLink": "https://www.youtube.com/embed/6Bw6HFni12o",
         "id": "Boiler-–-Introduction"
     },
     {
-        "chapter": "Steam Generator (Boiler)",
+        "chapter": "Steam Generator Boiler",
         "content": "Working of Boilers",
-        "title": "Construction and Working of\r\nCochran Boiler",
-        "youtubeLink": "https://youtu.be/ffIWSbaHmlc",
+        "title": "Construction and Working of Cochran Boiler",
+        "youtubeLink": "https://www.youtube.com/embed/ffIWSbaHmlc",
         "id": "Working-of-Boilers"
     },
     {
-        "chapter": "Steam Generator (Boiler)",
+        "chapter": "Steam Generator Boiler",
         "content": "Working of Boilers",
-        "title": "Construction and Working of\r\nLancashire Boiler",
-        "youtubeLink": "https://youtu.be/aLOm-tsg9Gs",
+        "title": "Construction and Working of Lancashire Boiler",
+        "youtubeLink": "https://www.youtube.com/embed/aLOm-tsg9Gs",
         "id": "Working-of-Boilers"
     },
     {
-        "chapter": "Steam Generator (Boiler)",
+        "chapter": "Steam Generator Boiler",
         "content": "Working of Boilers",
-        "title": "Construction and Working of\r\nBabcock and Wilcox Boiler",
-        "youtubeLink": "https://youtu.be/PvKt7PsErpI",
+        "title": "Construction and Working of Babcock and Wilcox Boiler",
+        "youtubeLink": "https://www.youtube.com/embed/PvKt7PsErpI",
         "id": "Working-of-Boilers"
     },
     {
-        "chapter": "Steam Generator (Boiler)",
+        "chapter": "Steam Generator Boiler",
         "content": "Boiler Mountings and Accessories",
         "title": "Boiler Mountings and Accessories, Importance of Boiler Mountings and Accessories and Difference Between Boiler Mountings and Accessories",
-        "youtubeLink": "https://youtu.be/vnVpZC2ecBk",
+        "youtubeLink": "https://www.youtube.com/embed/vnVpZC2ecBk",
         "id": "Boiler-Mountings-and-Accessories"
     },
     {
-        "chapter": "Steam Generator (Boiler)",
+        "chapter": "Steam Generator Boiler",
         "content": "Boiler Mountings Part I",
         "title": "Location, Function, Working of Pressure Gauge, Water Level Indicator, Steam Stop Valve",
-        "youtubeLink": "https://youtu.be/Q28AzChscQw",
+        "youtubeLink": "https://www.youtube.com/embed/Q28AzChscQw",
         "id": "Boiler-Mountings-Part-I"
     },
     {
-        "chapter": "Steam Generator (Boiler)",
+        "chapter": "Steam Generator Boiler",
         "content": "Boiler Mountings Part II",
-        "title": "Location, Function, Working of\r\nFeed Check Valve, Fusible Plug, Blow Off Cock",
-        "youtubeLink": "https://youtu.be/UH9C_Wa2RFo",
+        "title": "Location, Function, Working of Feed Check Valve, Fusible Plug, Blow Off Cock",
+        "youtubeLink": "https://www.youtube.com/embed/UH9C_Wa2RFo",
         "id": "Boiler-Mountings-Part-II"
     },
     {
-        "chapter": "Steam Generator (Boiler)"
-    },
-    {
-        "chapter": "Steam Generator (Boiler)",
+        "chapter": "Steam Generator Boiler",
         "content": "Boiler Mountings Part III",
         "title": "Location, Function, Working of Different Types of Safety Valves",
-        "youtubeLink": "https://youtu.be/O7iWP2ZUmA 0",
+        "youtubeLink": "https://www.youtube.com/embed/O7iWP2ZUmA 0",
         "id": "Boiler-Mountings-Part-III"
     },
     {
-        "chapter": "Steam Generator (Boiler)"
-    },
-    {
-        "chapter": "Steam Generator (Boiler)",
+        "chapter": "Steam Generator Boiler",
         "content": "Boiler Accessories Part I",
         "title": "Location, Function, Working of Super  heater, Economizer, Air Preheater",
-        "youtubeLink": "https://youtu.be/mHIeTmgbg-8",
+        "youtubeLink": "https://www.youtube.com/embed/mHIeTmgbg-8",
         "id": "Boiler-Accessories-Part-I"
     },
     {
-        "chapter": "Steam Generator (Boiler)",
+        "chapter": "Steam Generator Boiler",
         "content": "Boiler Accessories Part II",
         "title": "Location, Function, Working of Feed Water Heater, Steam Separator, Anti Priming Pipe, Feed Pump",
-        "youtubeLink": "https://youtu.be/he1lMqV8oMY",
+        "youtubeLink": "https://www.youtube.com/embed/he1lMqV8oMY",
         "id": "Boiler-Accessories-Part-II"
     },
     {
         "chapter": "Heat Engines",
         "content": "Introduction",
         "title": "Prime Mover, Elements of Heat Engine, Heat Source, Heat Sink, Adiabatic Wall, Working Fluid.",
-        "youtubeLink": "https://youtu.be/sI1WAyX9hT8",
+        "youtubeLink": "https://www.youtube.com/embed/sI1WAyX9hT8",
         "id": "Introduction"
     },
     {
         "chapter": "Heat Engines",
         "content": "Working of Heat Engines",
         "title": "Working of Heat Engines, Heat Supplied, Heat Rejected, Work Done, Efficiency of Heat Engine",
-        "youtubeLink": "https://youtu.be/u_ocr0q4zDU",
+        "youtubeLink": "https://www.youtube.com/embed/u_ocr0q4zDU",
         "id": "Working-of-Heat-Engines"
     },
     {
         "chapter": "Heat Engines",
         "content": "Classification of Heat Engines",
-        "title": "Classification of Heat Engines, External and Internal Combustion Engine, Reciprocating and Rotary Engine, Carnot, Rankine, Otto and\r\nDiesel Cycle.",
-        "youtubeLink": "https://youtu.be/1MuIpTveOwE",
+        "title": "Classification of Heat Engines, External and Internal Combustion Engine, Reciprocating and Rotary Engine, Carnot, Rankine, Otto and Diesel Cycle.",
+        "youtubeLink": "https://www.youtube.com/embed/1MuIpTveOwE",
         "id": "Classification-of-Heat-Engines"
     },
     {
         "chapter": "Heat Engines",
         "content": "Numerical – Heat Engines",
         "title": "Numerical on Heat Engines",
-        "youtubeLink": "https://youtu.be/PCIsMDq3zp0",
+        "youtubeLink": "https://www.youtube.com/embed/PCIsMDq3zp0",
         "id": "Numerical-–-Heat-Engines"
     },
     {
         "chapter": "Heat Engines",
         "content": "Carnot Air Cycle",
         "title": "Carnot Air Cycle, Assumptions in Carnot Cycle, Working and Efficiency of Carnot Air Cycle, Limitations of Carnot Air Cycle",
-        "youtubeLink": "https://youtu.be/EbOQDCNfhh4",
+        "youtubeLink": "https://www.youtube.com/embed/EbOQDCNfhh4",
         "id": "Carnot-Air-Cycle"
     },
     {
         "chapter": "Heat Engines",
         "content": "Numerical - Carnot Air Cycle",
         "title": "Numerical on Carnot Air Cycle",
-        "youtubeLink": "https://youtu.be/kfBAZHUGx9g",
-        "id": "Numerical---Carnot-Air-Cycle"
+        "youtubeLink": "https://www.youtube.com/embed/kfBAZHUGx9g",
+        "id": "Numerical-Carnot-Air-Cycle"
     },
     {
         "chapter": "Heat Engines",
         "content": "Carnot Vapour Cycle",
-        "title": "Carnot Vapour Cycle, Construction, Working and Efficiency of Carnot Vapour Cycle,\r\nLimitations of Carnot Vapour Cycle",
-        "youtubeLink": "https://youtu.be/fM6Xzg_yEfA",
+        "title": "Carnot Vapour Cycle, Construction, Working and Efficiency of Carnot Vapour Cycle, Limitations of Carnot Vapour Cycle",
+        "youtubeLink": "https://www.youtube.com/embed/fM6Xzg_yEfA",
         "id": "Carnot-Vapour-Cycle"
     },
     {
         "chapter": "Heat Engines",
         "content": "Numerical - Carnot Vapour Cycle",
         "title": "Numerical on Carnot Vapour Cycle",
-        "youtubeLink": "https://youtu.be/u4PWhpqDQqw",
-        "id": "Numerical---Carnot-Vapour-Cycle"
-    },
-    {
-        "chapter": "Heat Engines"
+        "youtubeLink": "https://www.youtube.com/embed/u4PWhpqDQqw",
+        "id": "Numerical-Carnot-Vapour-Cycle"
     },
     {
         "chapter": "Heat Engines",
         "content": "Comparison Between Carnot Air and Carnot Vapour Cycle",
         "title": "Comparison Between Carnot Air and Carnot Vapour Cycle, Numerical on comparison of newly developed heat engine with Carnot cycle.",
-        "youtubeLink": "https://youtu.be/nhzoaMhvucw",
+        "youtubeLink": "https://www.youtube.com/embed/nhzoaMhvucw",
         "id": "Comparison-Between-Carnot-Air-and-Carnot-Vapour-Cycle"
     },
     {
         "chapter": "Heat Engines",
         "content": "Rankine Cycle",
         "title": "Rankine Cycle, Construction of Rankine Cycle, Working of Rankine Cycle, Efficiency of Rankine Cycle",
-        "youtubeLink": "https://youtu.be/_9A1KzI8eOI",
+        "youtubeLink": "https://www.youtube.com/embed/_9A1KzI8eOI",
         "id": "Rankine-Cycle"
     },
     {
         "chapter": "Heat Engines",
         "content": "Numerical - Rankine Cycle",
         "title": "Numerical on Rankine Cycle",
-        "youtubeLink": "https://youtu.be/fMaELvDAMnE",
-        "id": "Numerical---Rankine-Cycle"
-    },
-    {
-        "chapter": "Heat Engines"
+        "youtubeLink": "https://www.youtube.com/embed/fMaELvDAMnE",
+        "id": "Numerical-Rankine-Cycle"
     },
     {
         "chapter": "Heat Engines",
         "content": "Comparison Between Carnot Vapour and Rankine Cycle",
         "title": "Comparison Between Carnot Vapour and Rankine Vapour Cycle",
-        "youtubeLink": "https://youtu.be/h0zLrHzmd_g",
+        "youtubeLink": "https://www.youtube.com/embed/h0zLrHzmd_g",
         "id": "Comparison-Between-Carnot-Vapour-and-Rankine-Cycle"
     },
     {
         "chapter": "Heat Engines",
         "content": "Air Standard Cycle",
         "title": "Air   Standard   Cycles,   Assumptions   for   Air Standard    Cycle,    Terminology    Related    to Reciprocating Engine, TDC, BDC, IDC, ODC.",
-        "youtubeLink": "https://youtu.be/N-_LFLChqR0",
+        "youtubeLink": "https://www.youtube.com/embed/N-_LFLChqR0",
         "id": "Air-Standard-Cycle"
     },
     {
         "chapter": "Heat Engines",
         "content": "Otto Cycle",
         "title": "Construction  of  Otto  Cycle,  Working  of  Otto Cycle, Efficiency of Otto Cycle",
-        "youtubeLink": "https://youtu.be/tb4d8IueTyw",
+        "youtubeLink": "https://www.youtube.com/embed/tb4d8IueTyw",
         "id": "Otto-Cycle"
     },
     {
         "chapter": "Heat Engines",
         "content": "Numerical - Otto Cycle",
         "title": "Numerical on Otto Cycle",
-        "youtubeLink": "https://youtu.be/1U9mt6KAVCk",
-        "id": "Numerical---Otto-Cycle"
+        "youtubeLink": "https://www.youtube.com/embed/1U9mt6KAVCk",
+        "id": "Numerical-Otto-Cycle"
     },
     {
         "chapter": "Heat Engines",
         "content": "Diesel Cycle",
         "title": "Construction   of   Diesel   Cycle,   Working   of Diesel Cycle, Efficiency of Diesel Cycle",
-        "youtubeLink": "https://youtu.be/ucpYW1hIapc",
+        "youtubeLink": "https://www.youtube.com/embed/ucpYW1hIapc",
         "id": "Diesel-Cycle"
     },
     {
         "chapter": "Heat Engines",
         "content": "Comparison Between Otto and Diesel Cycle",
         "title": "Comparison Between Otto and Diesel Cycle",
-        "youtubeLink": "https://youtu.be/Yypb35_q4tA",
+        "youtubeLink": "https://www.youtube.com/embed/Yypb35_q4tA",
         "id": "Comparison-Between-Otto-and-Diesel-Cycle"
     },
     {
         "chapter": "Heat Engines",
         "content": "Numerical - Diesel Cycle",
         "title": "Numerical on Diesel Cycle",
-        "youtubeLink": "https://youtu.be/styIV0wOQDo",
-        "id": "Numerical---Diesel-Cycle"
+        "youtubeLink": "https://www.youtube.com/embed/styIV0wOQDo",
+        "id": "Numerical-Diesel-Cycle"
     },
     {
         "chapter": "Heat Engines",
         "content": "Numerical - Diesel Cycle",
         "title": "Numerical on Diesel Cycle",
-        "youtubeLink": "https://youtu.be/hYuhBx3Rg4k",
-        "id": "Numerical---Diesel-Cycle"
+        "youtubeLink": "https://www.youtube.com/embed/hYuhBx3Rg4k",
+        "id": "Numerical-Diesel-Cycle"
     },
     {
         "chapter": "Internal Combustion Engines",
         "content": "Introduction",
         "title": "Difference between Internal Combustion Engine and External Combustion Engine, Components of IC Engine",
-        "youtubeLink": "https://youtu.be/JJLfBsrH-TE",
+        "youtubeLink": "https://www.youtube.com/embed/JJLfBsrH-TE",
         "id": "Introduction"
     },
     {
         "chapter": "Internal Combustion Engines",
         "content": "IC Engine Terminology",
         "title": "Terminology related to IC Engine, Top Dead Centre, Bottom Dead Centre, Inner and Outer Dead Centre, Stroke Length, Clearance Length, Stroke (Swept) Volume, Compression Ratio.",
-        "youtubeLink": "https://youtu.be/VL6BK9Uraao",
+        "youtubeLink": "https://www.youtube.com/embed/VL6BK9Uraao",
         "id": "IC-Engine-Terminology"
     },
     {
         "chapter": "Internal Combustion Engines",
         "content": "Classification of IC Engine",
         "title": "Classification of Internal Combustion Engine.",
-        "youtubeLink": "https://youtu.be/NLggyZDIv04",
+        "youtubeLink": "https://www.youtube.com/embed/NLggyZDIv04",
         "id": "Classification-of-IC-Engine"
     },
     {
         "chapter": "Internal Combustion Engines",
         "content": "Working of Four Stroke Petrol Engine",
         "title": "Working of Four Stroke Petrol Engine, Spark Ignition.",
-        "youtubeLink": "https://youtu.be/flXpf-wl5Ws",
+        "youtubeLink": "https://www.youtube.com/embed/flXpf-wl5Ws",
         "id": "Working-of-Four-Stroke-Petrol-Engine"
     },
     {
         "chapter": "Internal Combustion Engines",
-        "content": "Working of Four Stroke Diesel Engine and Difference between Petrol\r\nand Diesel Engine",
-        "title": "Working of Four Stroke Diesel Engine, Compression Ignition and Difference between Petrol and\r\nDiesel Engine",
-        "youtubeLink": "https://youtu.be/-Hwo54uYtWY",
-        "id": "Working-of-Four-Stroke-Diesel-Engine-and-Difference-between-Petrol\r\nand-Diesel-Engine"
+        "content": "Working of Four Stroke Diesel Engine and Difference between Petrol and Diesel Engine",
+        "title": "Working of Four Stroke Diesel Engine, Compression Ignition and Difference between Petrol and Diesel Engine",
+        "youtubeLink": "https://www.youtube.com/embed/-Hwo54uYtWY",
+        "id": "Working-of-Four-Stroke-Diesel-Engine-and-Difference-between-Petrol and-Diesel-Engine"
     },
     {
         "chapter": "Internal Combustion Engines",
-        "content": "Working of Two Stroke\r\nPetrol Engine",
-        "title": "Working of Two Stroke Petrol\r\nEngine",
-        "youtubeLink": "https://youtu.be/7vfgwYRDFeg",
-        "id": "Working-of-Two-Stroke\r\nPetrol-Engine"
+        "content": "Working of Two Stroke Petrol Engine",
+        "title": "Working of Two Stroke Petrol Engine",
+        "youtubeLink": "https://www.youtube.com/embed/7vfgwYRDFeg",
+        "id": "Working-of-Two-Stroke Petrol-Engine"
     },
     {
         "chapter": "Internal Combustion Engines",
         "content": "Working of Two Stroke Diesel Engine",
         "title": "Working of Two Stroke Diesel Engine",
-        "youtubeLink": "https://youtu.be/O4PYi6rxqnk",
+        "youtubeLink": "https://www.youtube.com/embed/O4PYi6rxqnk",
         "id": "Working-of-Two-Stroke-Diesel-Engine"
     },
     {
         "chapter": "Internal Combustion Engines",
         "content": "Difference between Two Stroke and Four Stroke Engine",
         "title": "Difference between Two Stroke and Four Stroke Engine",
-        "youtubeLink": "https://youtu.be/vxR3GciEizM",
+        "youtubeLink": "https://www.youtube.com/embed/vxR3GciEizM",
         "id": "Difference-between-Two-Stroke-and-Four-Stroke-Engine"
     },
     {
         "chapter": "Internal Combustion Engines",
-        "content": "Equations to Solve\r\nNumerical on IC Engine",
+        "content": "Equations to Solve Numerical on IC Engine",
         "title": "Equations to Solve Numerical on IC Engine",
-        "youtubeLink": "https://youtu.be/RAFEnzNA0mY",
-        "id": "Equations-to-Solve\r\nNumerical-on-IC-Engine"
+        "youtubeLink": "https://www.youtube.com/embed/RAFEnzNA0mY",
+        "id": "Equations-to-Solve Numerical-on-IC-Engine"
     },
     {
         "chapter": "Internal Combustion Engines",
         "content": "Numerical – IC Engine",
         "title": "Numerical on IC Engine",
-        "youtubeLink": "https://youtu.be/l8lvoqFccpg",
-        "id": "Numerical-–-IC-Engine"
+        "youtubeLink": "https://www.youtube.com/embed/l8lvoqFccpg",
+        "id": "Numerical-IC-Engine"
     },
     {
         "chapter": "Internal Combustion Engines",
         "content": "Numerical – IC Engine",
         "title": "Numerical on IC Engine",
-        "youtubeLink": "https://youtu.be/hw86n_UaWfg",
-        "id": "Numerical-–-IC-Engine"
+        "youtubeLink": "https://www.youtube.com/embed/hw86n_UaWfg",
+        "id": "Numerical-IC-Engine"
     },
     {
         "chapter": "Pumps",
         "content": "Introduction and Classification",
         "title": "Pumps, Introduction, Classification, Positive Displacement, Dynamic Pressure",
-        "youtubeLink": "https://youtu.be/R5t9JqunQAs",
+        "youtubeLink": "https://www.youtube.com/embed/R5t9JqunQAs",
         "id": "Introduction-and-Classification"
-    },
-    {
-        "chapter": "Pumps"
     },
     {
         "chapter": "Pumps",
         "content": "Single Acting Reciprocating Pump",
         "title": "Construction and working of Single Acting Single Stage Reciprocating Pump",
-        "youtubeLink": "https://youtu.be/vmZ4YriKI4E",
+        "youtubeLink": "https://www.youtube.com/embed/vmZ4YriKI4E",
         "id": "Single-Acting-Reciprocating-Pump"
-    },
-    {
-        "chapter": "Pumps"
     },
     {
         "chapter": "Pumps",
         "content": "Double Acting Reciprocating Pump",
-        "title": "Construction and working of\r\nDouble Acting Single Stage Reciprocating Pump",
-        "youtubeLink": "https://youtu.be/8WOU7URR-Aw",
+        "title": "Construction and working of Double Acting Single Stage Reciprocating Pump",
+        "youtubeLink": "https://www.youtube.com/embed/8WOU7URR-Aw",
         "id": "Double-Acting-Reciprocating-Pump"
     },
     {
         "chapter": "Pumps",
         "content": "Single Acting Reciprocating Pump with Air Vessel",
-        "title": "Construction and working of Single Acting Single Stage Reciprocating Pump with Air\r\nVessel",
-        "youtubeLink": "https://youtu.be/IKL1YKJyv4g",
+        "title": "Construction and working of Single Acting Single Stage Reciprocating Pump with Air Vessel",
+        "youtubeLink": "https://www.youtube.com/embed/IKL1YKJyv4g",
         "id": "Single-Acting-Reciprocating-Pump-with-Air-Vessel"
     },
     {
         "chapter": "Pumps",
         "content": "Plunger Pump and Bucket Pump",
         "title": "Construction and working of Plunger Pump and Bucket Pump",
-        "youtubeLink": "https://youtu.be/JAwiC0MCwuQ",
+        "youtubeLink": "https://www.youtube.com/embed/JAwiC0MCwuQ",
         "id": "Plunger-Pump-and-Bucket-Pump"
     },
     {
         "chapter": "Pumps",
         "content": "Gear Pump, Vane Pump and Screw Pump",
         "title": "Positive Displacement Pump - Rotary Type, Gear Pump, Vane Pump and Screw Pump",
-        "youtubeLink": "https://youtu.be/yCowH2Q8pr8",
+        "youtubeLink": "https://www.youtube.com/embed/yCowH2Q8pr8",
         "id": "Gear-Pump,-Vane-Pump-and-Screw-Pump"
     },
     {
         "chapter": "Pumps",
         "content": "Centrifugal Pump",
         "title": "Dynamic Pressure Pump-Rotary Type, Centrifugal Pump, Classification, Construction, Working, Types, Advantages",
-        "youtubeLink": "https://youtu.be/yaTWbwkQYbM",
+        "youtubeLink": "https://www.youtube.com/embed/yaTWbwkQYbM",
         "id": "Centrifugal-Pump"
     },
     {
         "chapter": "Pumps",
         "content": "Centrifugal Pump",
-        "title": "Dynamic Pressure Pump-Rotary\r\nType, Centrifugal Pump, Single Stage and multistage, Priming",
-        "youtubeLink": "https://youtu.be/8ncH-zA85Qw",
+        "title": "Dynamic Pressure Pump-Rotary Type, Centrifugal Pump, Single Stage and multistage, Priming",
+        "youtubeLink": "https://www.youtube.com/embed/8ncH-zA85Qw",
         "id": "Centrifugal-Pump"
     },
     {
         "chapter": "Air Compressor",
         "content": "Introduction and Classification",
         "title": "Air Compressor, Introduction, Classification, Reciprocating & Rotary Compressors",
-        "youtubeLink": "https://youtu.be/K6ATQf0iaYU",
+        "youtubeLink": "https://www.youtube.com/embed/K6ATQf0iaYU",
         "id": "Introduction-and-Classification"
     },
     {
         "chapter": "Air Compressor",
         "content": "Single Stage Single Acting Reciprocating Compressor",
-        "title": "Single Stage Single Acting Reciprocating Compressor without Clearance, Work Required to Drive the compressor in case of Isothermal, Polytropic and\r\nAdiabatic Process",
-        "youtubeLink": "https://youtu.be/W9aG496gfHk",
+        "title": "Single Stage Single Acting Reciprocating Compressor without Clearance, Work Required to Drive the compressor in case of Isothermal, Polytropic and Adiabatic Process",
+        "youtubeLink": "https://www.youtube.com/embed/W9aG496gfHk",
         "id": "Single-Stage-Single-Acting-Reciprocating-Compressor"
     },
     {
         "chapter": "Air Compressor",
         "content": "Single Stage Single Acting Reciprocating Compressor with Clearance",
         "title": "Single Stage Single Acting Reciprocating Compressor Considering Clearance, Work Required to Drive the compressor, Effective Swept Volume and Volumetric Efficiency",
-        "youtubeLink": "https://youtu.be/nAGd-b4oIBQ",
+        "youtubeLink": "https://www.youtube.com/embed/nAGd-b4oIBQ",
         "id": "Single-Stage-Single-Acting-Reciprocating-Compressor-with-Clearance"
     },
     {
         "chapter": "Air Compressor",
         "content": "Multi Stage Reciprocating Compressor",
         "title": "Multi Stage Reciprocating Compressor, Need, Advantages",
-        "youtubeLink": "https://youtu.be/TMoLC5Yx6kE",
+        "youtubeLink": "https://www.youtube.com/embed/TMoLC5Yx6kE",
         "id": "Multi-Stage-Reciprocating-Compressor"
     },
     {
         "chapter": "Air Compressor",
         "content": "Centrifugal Compressor",
-        "title": "Rotary Compressor, Non-positive\r\nType Compressor, Centrifugal Compressor",
-        "youtubeLink": "https://youtu.be/pQrKmA_tYAE",
+        "title": "Rotary Compressor, Non-positive Type Compressor, Centrifugal Compressor",
+        "youtubeLink": "https://www.youtube.com/embed/pQrKmA_tYAE",
         "id": "Centrifugal-Compressor"
     },
     {
         "chapter": "Air Compressor",
         "content": "Axial Compressor and Roots Blower",
         "title": "Rotary Compressor, Non-positive Type Compressor-Axial Compressor. Positive Displacement Type Compressor – Roots Blower",
-        "youtubeLink": "https://youtu.be/i2H0eCBNAJQ",
+        "youtubeLink": "https://www.youtube.com/embed/i2H0eCBNAJQ",
         "id": "Axial-Compressor-and-Roots-Blower"
     },
     {
         "chapter": "Air Compressor",
         "content": "Vane Compressor",
         "title": "Rotary Compressor, Positive Displacement Type Compressor – Vane Compressor, Comparison between Reciprocating and Centrifugal Compressor",
-        "youtubeLink": "https://youtu.be/CJ4ne-drOjY",
+        "youtubeLink": "https://www.youtube.com/embed/CJ4ne-drOjY",
         "id": "Vane-Compressor"
     },
     {
         "chapter": "Refrigeration and Air Conditioning",
         "content": "Refrigeration and Air Conditioning",
         "title": "Refrigeration and Air Conditioning, Introduction",
-        "youtubeLink": "https://youtu.be/90-88DLSf0o",
+        "youtubeLink": "https://www.youtube.com/embed/90-88DLSf0o",
         "id": "Refrigeration-and-Air-Conditioning"
     },
     {
         "chapter": "Refrigeration and Air Conditioning",
         "content": "Heat Engine, Refrigeration and Heat Pump",
         "title": "Refrigeration and Air Conditioning, Heat Engine, Refrigeration and Heat Pump",
-        "youtubeLink": "https://youtu.be/kYssl4Si0d8",
+        "youtubeLink": "https://www.youtube.com/embed/kYssl4Si0d8",
         "id": "Heat-Engine,-Refrigeration-and-Heat-Pump"
     },
     {
         "chapter": "Refrigeration and Air Conditioning",
         "content": "Unit of Refrigeration",
         "title": "Refrigeration and Air Conditioning, Unit of Refrigeration",
-        "youtubeLink": "https://youtu.be/TIVo8Btcqlk",
+        "youtubeLink": "https://www.youtube.com/embed/TIVo8Btcqlk",
         "id": "Unit-of-Refrigeration"
     },
     {
         "chapter": "Refrigeration and Air Conditioning",
         "content": "Refrigeration Cycles, VCRS",
         "title": "Refrigeration and Air Conditioning,  Refrigeration Cycles, Vapour Compression Refrigeration Cycle",
-        "youtubeLink": "https://youtu.be/zzq8-Tuyolo",
+        "youtubeLink": "https://www.youtube.com/embed/zzq8-Tuyolo",
         "id": "Refrigeration-Cycles,-VCRS"
     },
     {
         "chapter": "Refrigeration and Air Conditioning",
         "content": "Domestic Refrigerator and Water cooler",
         "title": "Refrigeration and Air Conditioning, Domestic Refrigerator and Water cooler",
-        "youtubeLink": "https://youtu.be/NSqci2Ap9Hg",
+        "youtubeLink": "https://www.youtube.com/embed/NSqci2Ap9Hg",
         "id": "Domestic-Refrigerator-and-Water-cooler"
     },
     {
         "chapter": "Refrigeration and Air Conditioning",
         "content": "VARS",
         "title": "Refrigeration and Air Conditioning, VARS",
-        "youtubeLink": "https://youtu.be/yu5Lem9qfgQ",
+        "youtubeLink": "https://www.youtube.com/embed/yu5Lem9qfgQ",
         "id": "VARS"
     },
     {
         "chapter": "Refrigeration and Air Conditioning",
         "content": "Air Conditioning",
-        "title": "Refrigeration and Air Conditioning, Air Conditioning, Window Air Conditioner, Split Air Conditioner, and Central Air\r\nConditioner",
-        "youtubeLink": "https://youtu.be/qfSDKmXOOMY",
+        "title": "Refrigeration and Air Conditioning, Air Conditioning, Window Air Conditioner, Split Air Conditioner, and Central Air Conditioner",
+        "youtubeLink": "https://www.youtube.com/embed/qfSDKmXOOMY",
         "id": "Air-Conditioning"
     },
     {
         "chapter": "Power Transmission",
-        "content": "Introduction, Power\r\nTransmission",
+        "content": "Introduction, Power Transmission",
         "title": "Power Transmission, Introduction",
-        "youtubeLink": "https://youtu.be/v1skqj3eKro",
-        "id": "Introduction,-Power\r\nTransmission"
+        "youtubeLink": "https://www.youtube.com/embed/v1skqj3eKro",
+        "id": "Introduction,-Power Transmission"
     },
     {
         "chapter": "Power Transmission",
         "content": "Belt Drive",
         "title": "Power Transmission, Belt Drive",
-        "youtubeLink": "https://youtu.be/DEuAlpoafp0",
+        "youtubeLink": "https://www.youtube.com/embed/DEuAlpoafp0",
         "id": "Belt-Drive"
     },
     {
         "chapter": "Power Transmission",
         "content": "Rope Drive",
         "title": "Power Transmission, Rope Drive",
-        "youtubeLink": "https://youtu.be/VC-OoJWGMYM",
+        "youtubeLink": "https://www.youtube.com/embed/VC-OoJWGMYM",
         "id": "Rope-Drive"
     },
     {
         "chapter": "Power Transmission",
         "content": "Chain Drive",
         "title": "Power Transmission, Chain Drive",
-        "youtubeLink": "https://youtu.be/6KlweB_fWN4",
+        "youtubeLink": "https://www.youtube.com/embed/6KlweB_fWN4",
         "id": "Chain-Drive"
     },
     {
         "chapter": "Power Transmission",
         "content": "Gear Drive",
         "title": "Power Transmission, Gear Drive",
-        "youtubeLink": "https://youtu.be/U9RUSHagOGM",
+        "youtubeLink": "https://www.youtube.com/embed/U9RUSHagOGM",
         "id": "Gear-Drive"
     },
     {
         "chapter": "Power Transmission",
         "content": "Bearing",
         "title": "Power Transmission, Bearing",
-        "youtubeLink": "https://youtu.be/v9TPIc3H4yU",
+        "youtubeLink": "https://www.youtube.com/embed/v9TPIc3H4yU",
         "id": "Bearing"
     }
 ]
