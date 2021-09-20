@@ -4,12 +4,7 @@
         <%- include('./partials/head.ejs');%>
         <title>MAIN PAGE Index</title>
     </head>
-    <body>
-        <% chaptersArr.forEach(element=>{ %>
-            <a href="/topic/<%= element.id%>">
-                <h1><%=element.chapter%></h1>
-            </a>
-        <% }) %>
-
+    <body class="font-inter">
+        <%- include('./partials/chapters.ejs');%>
     </body>
 </html>

@@ -1,40 +1,20 @@
 const express = require('express')
 const chapter = express.Router()
 // const path = require('path')
-const chapterJsonData = require('../JSON_DATA_CUSTOMIZING/chapters.json')
+const chapterJsonData = require('../JSON_DATA_CUSTOMIZING/chapter_data.json')
 const bmeJsonData = require('../JSON_DATA_CUSTOMIZING/bme_data.json')
 
-function getUniqueListBy(arr, key) {
-    return [...new Map(arr.map(item => [item[key], item])).values()]
-}
 // console.log(bmeJsonData.length);
 chapter.get('/', async (req, res) => {
-    let chaptersArr = []
-    // let chaptersArr = bmeJsonData.filter(chapter => chapter.chapter)
+    try {
+        await res.render('index.ejs', {
+            bmeJsonData: bmeJsonData,
+            chapterJsonData: chapterJsonData
+        })
+    } catch (error) {
+        console.log(error);
+    }
 
-    bmeJsonData.forEach(value => {
-        if (chaptersArr.indexOf(value) == -1) {
-            chaptersArr.push(value)
-        }
-    })
-    console.log(chaptersArr.chapter);
-
-    // console.log(bmeJsonData[0].chapter==bmeJsonData[0].chapter);
-    // console.log(chaptersArr);
-    let chapters = []
-    bmeJsonData.forEach(element => {
-        let obj = {}
-        obj.chapter = element.chapter
-        obj.id = element.id
-        chapters.push(obj)
-    })
-    const chaptersArr2 = getUniqueListBy(chapters, 'chapter')
-    // console.log(chaptersArr);
-
-    await res.render('index.ejs', {
-        bmeJsonData: bmeJsonData,
-        chaptersArr: chaptersArr2
-    })
 })
 chapter.get('/:chapterName/:topicId', (req, res) => {
     try {
@@ -48,7 +28,8 @@ chapter.get('/:chapterName/:topicId', (req, res) => {
             topicName: topic.id,
             topicContent: topic.content,
             topicTitle: topic.title,
-            topicYoutubeLink: topic.youtubeLink
+            topicYoutubeLink: topic.youtubeLink,
+            chapterJsonData: chapterJsonData
         })
     }
     catch (error) {

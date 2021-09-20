@@ -1,0 +1,7 @@
+<div class="flex flex-row justify-center items-center flex-wrap p-7 px-5">
+    <% chapterJsonData.forEach((element,index)=>{ %>
+    <a class="px-4 py-3 m-3 bg-indigo-200 rounded-sm border-solid border-l-4 border-indigo-500 duration-300 hover:shadow-md" href="/<%=element.chapterId%>/<%= element.id%>">
+        <h1><%= index+1 %>. <%=element.chapter%></h1>
+    </a>
+    <% }) %>
+</div>
