@@ -1,21 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <%- include('./partials/metaData.ejs');%>
         <%- include('./partials/head.ejs');%>
-        <title>BME</title>
+        <title><%=topicName%> || Mechanical Engineering</title>
     </head>
-    <body class="font-inter bg-gray-100">
+    <body class="font-inter">
         <div class="flex flex-col md:flex-row justify-center">
             <div class="w-screen md:w-3/4 h-64 md:h-auto md:max-h-[80vh] bg-black">
                 <iframe class="w-[100%] max-w-screen-lg h-[100%] mx-auto" src="<%=topicYoutubeLink%>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="p-6">
-                    <h1 class="text-xl text-gray-800 font-semibold"><%= topicTitle %> from <%= chapterName %></h1>
-                    <%- include('./partials/chapters.ejs');%>
+                <div class="bg-indigo-100">
+                    <h1 class="p-6 text-xl text-gray-800 font-semibold"><%= topicTitle %> from <%= chapterName %></h1>
+                    <div class="mt-1 flex flex-col justify-center items-center bg-indigo-100">
+                        <h1 class="mt-3 font-medium text-3xl py-3 w-full text-center text-gray-200 bg-indigo-500">Chapters</h1>
+                        <%- include('./partials/chapters.ejs');%>
+                    </div>
                 </div>
             </div>
             <!-- <div class="w-auto md:w-1/4 flex flex-col justify-center md:max-h-screen md:overflow-y-scroll"> -->
             <div class="w-auto md:w-1/4 flex flex-col justify-center">
-                <div class="bg-gray-700 text-4xl md:text-4xl py-4 md:py-5 text-white text-center font-medium md:font-semibold">Next Topics</div>
+                <div class="bg-indigo-500 text-3xl md:text-3xl py-4 md:py-5 text-white text-center font-medium md:font-semibold">Next Topics</div>
                 <% bmeJsonData.forEach((element,index)=> { %>
                 <% if(chapterName==element.chapter.replace(/ /g, '-')){ %>
                 <div class="text-base md:text-xs p-3 topic-list text-gray-700 flex flex-row justify-start">
