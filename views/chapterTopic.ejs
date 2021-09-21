@@ -5,6 +5,7 @@
         <title><%=topicName%> || Mechanical Engineering</title>
     </head>
     <body class="font-inter">
+        <%- include('./partials/navbar.ejs');%>
         <div class="flex flex-col md:flex-row justify-center">
             <div class="w-screen md:w-3/4 md:h-auto md:max-h-[80vh] bg-black">
                 <iframe class="w-[100%] h-64 max-w-screen-lg md:h-[100%] mx-auto" src="<%=topicYoutubeLink%>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -17,7 +18,7 @@
                 </div>
             </div>
             <!-- <div class="w-auto md:w-1/4 flex flex-col justify-center md:max-h-screen md:overflow-y-scroll"> -->
-            <div class="w-auto md:w-1/4 flex flex-col justify-center">
+            <div class="w-auto md:w-1/4 flex flex-col justify-start">
                 <div class="bg-indigo-500 text-3xl md:text-3xl py-4 md:py-5 text-white text-center font-medium md:font-semibold">Next Topics</div>
                 <% bmeJsonData.forEach((element,index)=> { %> <% if(chapterName==element.chapter.replace(/ /g, '-')){ %>
                 <div class="text-base md:text-xs p-3 topic-list text-gray-700 flex flex-row justify-start">

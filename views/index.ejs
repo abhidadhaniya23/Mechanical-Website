@@ -3,54 +3,56 @@
     <head>
         <meta name="title" content="Basic Mechanical Engineering" />
         <meta name="description" content="" />
-        <meta name="keywords" content="mechanical,engineering,niraj chavda" />
+        <meta name="keywords" content="mechanical,engineering,neeraj chavda" />
         <meta name="robots" content="index, follow" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="language" content="English" />
         <meta name="revisit-after" content="10 days" />
-        <meta name="author" content="Abhi Dadhaniya, Niraj Chavda" />
+        <meta name="author" content="Abhi Dadhaniya, neeraj Chavda" />
         <%- include('./partials/head.ejs');%>
         <title>Mechanical Engineering</title>
     </head>
     <body class="font-inter">
         
         <!-- navBar -->
-
-        <header class="absolute top-0 z-50 w-full nav-shadow duration-200">
-            <div class="container flex flex-col justify-between md:justify-between py-4 md:py-2 items-center w-screen mx-auto">
-                <div class="flex flex-row justify-around items-center w-screen md:px-12">
+        <header class="bg-gray-900 md:bg-transparent absolute top-0 z-50 w-full nav-shadow duration-200 py-0.5">
+            <div class="container flex flex-col justify-between md:justify-between py-4 md:py-2 items-center w-full mx-auto">
+                <div class="flex flex-row justify-around items-center w-full md:px-12">
                     <div class="px-2 md:px-0">
-                        <img class="text-xl w-40 border-4 rounded-sm border-solid border-white flex title-font font-medium items-center text-gray-900 md:mb-0" src="/img/logo/tsb.png" />
+                        <a href="/">
+                            <img class="text-xl w-28 flex title-font font-medium items-center text-gray-900 md:mb-0" src="/img/bme_logo.png" />
+                        </a>
                     </div>
-                    <nav class="z-20 interFont absolute w-screen md:top-0 -top-52 md:w-auto md:relative duration-300 md:pb-0 md:mx-auto hidden md:flex md:flex-row flex-col items-center text-base justify-center text-gray-100 bg-indigo-500 md:bg-transparent">
-                        <a href="/" class="nav-link my-1.5 text-gray-100 text-xl mr-5 hover:text-indigo-400 duration-200">Home</a>
-                        <a href="https://www.web-developer-abhi.tk" class="nav-link my-1.5 text-gray-100 text-xl mr-5 hover:text-indigo-400 duration-200">Developer</a>
-                        <a href="#chapter" class="nav-link my-1.5 text-gray-100 text-xl mr-5 hover:text-indigo-400 duration-200">Chapters</a>
+                    <nav class="z-20 interFont absolute w-full md:top-0 -top-52 md:relative duration-300 md:pb-0 md:mx-auto hidden md:flex md:flex-row flex-col items-center text-base justify-end text-gray-100 bg-indigo-500 md:bg-transparent">
+                        <a href="/" class="nav-link my-1.5 text-gray-100 text-xl mr-5 hover:text-indigo-500 duration-200">Home</a>
+                        <a href="https://www.web-developer-abhi.tk" class="nav-link my-1.5 text-gray-100 text-xl mr-5 hover:text-indigo-500 duration-200">Developer</a>
+                        <a href="#chapter" class="nav-link my-1.5 text-gray-100 text-xl mr-5 hover:text-indigo-500 duration-200">Chapters</a>
                     </nav>
                     <div class="flex flex-row justify-center items-center px-2 md:px-0">
-                        <button id="navBtn" class="block md:hidden text-white text-2xl border-solid border-2 border-l-2 border-white rounded px-3 py-1.5 mr-4 duration-300 hover:text-orange hover:bg-white"><i class="fa fa-bars"></i></button>
+                        <button id="navBtn" class="block md:hidden text-white text-2xl border-solid border-2 border-l-2 border-white rounded px-3 py-1.5 mr-4 duration-300 hover:text-indigo-400"><i class="fa fa-bars"></i></button>
                     </div>
                 </div>
                 <div class="navDiv h-0 duration-300">
                     <nav id="navBar" class="pt-4 md:hidden z-20 interFont w-screen opacity-0 md:top-0 -top-52 md:w-auto md:relative duration-300 md:pb-0 md:mx-auto hidden md:flex-row flex-col items-center text-base justify-center text-gray-100">
                         <a href="/" class="relative left-0 links-animate nav-link my-1.5 text-gray-100 text-xl mr-5 hover:text-gray-200 duration-300">Home</a>
-                        <a href="https://web-developer-abhi.tk" class="relative left-0 links-animate nav-link my-1.5 text-gray-100 text-xl mr-5 hover:text-gray-200 duration-300">Developer</a>
+                        <a href="https://www.web-developer-abhi.tk" class="relative left-0 links-animate nav-link my-1.5 text-gray-100 text-xl mr-5 hover:text-gray-200 duration-300">Developer</a>
                         <a href="#chapter" class="relative left-0 links-animate nav-link my-1.5 text-gray-100 text-xl mr-5 hover:text-gray-200 duration-300">Chapters</a>
                     </nav>
                 </div>
             </div>
-        </header>
+        </header>        
         
 
         <section class="section-bg flex flex-col justify-center items-center">
-            <h1 class="text-6xl font-semibold text-white text-center">Mechanical <br> Engineering</h1>
-            <h2 class="text-xl text-gray-300 mt-4">-Professor Nirajsir Chavda</h2>
-            <a href="#chapters" class="mt-8 px-2 py-3 duration-200 rounded-md border-2 text-white border-white font-medium text-xl hover:text-indigo-700 hover:bg-white">Start Learning >></a>            
+            <h1 class="text-6xl font-semibold text-white text-center">Basic Mechanical <br> Engineering</h1>
+            <h2 class="text-lg text-gray-300 mt-4">-Dr. Neeraj k. Chavda</h2>
+            <h2 class="text-base text-gray-400 mt-1">Associate Professor, MBIT Collage</h2>
+            <a href="#chapters" class="mt-8 px-2 py-3 duration-200 rounded-md border-2 border-white font-medium text-xl text-indigo-700 bg-white">Start Learning >></a>            
         </section>
         <section id="faculty" class="bg-gray-50 py-8">
             <h1 class="font-medium text-3xl w-full text-center text-indigo-700">About Faculty</h1>
-            <div class="flex flex-row justify-center items-center px-24 py-5">
-                <img src="/img/fav-icon.png" class="w-20" alt="niraj chavda">
+            <div class="flex flex-col text-center md:text-left md:flex-row justify-center items-center px-24 py-5">
+                <img src="/img/fav-icon.png" class="w-20" alt="neeraj chavda">
                 <p class="my-6 md:my-0 md:mx-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut quibusdam eius animi odit nam? Perferendis magnam quaerat esse facilis labore, dolore blanditiis tempora nesciunt totam laboriosam sint. Non, cupiditate nostrum!</p>
             </div>
         </section>
@@ -58,6 +60,16 @@
             <h1 class="font-medium text-3xl py-3 w-full text-center text-indigo-700">Chapters</h1>
             <%- include('./partials/chapters.ejs');%>
         </section>
-        <%#- include('./partials/footer.ejs');%>
+        
+        <script>
+            console.log('linked');
+            const navBtn = document.getElementById("navBtn");
+        
+            navBtn.addEventListener("click", () => {
+                document.querySelector(".navDiv").classList.toggle("navbar-active");
+                document.getElementById("navBar").classList.toggle("links-active");
+                document.querySelectorAll(".nav-link").classList.toggle("show-links");
+            });
+        </script>
     </body>
 </html>
