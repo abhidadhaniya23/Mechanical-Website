@@ -189,7 +189,7 @@
         "content": "Introduction",
         "title": "Difference Between Gas and Vapour, Application of Steam, Effect of Pressure on Boiling Point, Formation of Steam.",
         "youtubeLink": "https://www.youtube.com/embed/vZKj-8ghc7E",
-        "id": "Introduction"
+        "id": "Introduction-steam-generation"
     },
     {
         "chapter": "Steam Generation",
@@ -405,7 +405,7 @@
         "content": "Introduction",
         "title": "Prime Mover, Elements of Heat Engine, Heat Source, Heat Sink, Adiabatic Wall, Working Fluid.",
         "youtubeLink": "https://www.youtube.com/embed/sI1WAyX9hT8",
-        "id": "Introduction"
+        "id": "Introduction-Heat-Engines"
     },
     {
         "chapter": "Heat Engines",
@@ -557,7 +557,7 @@
         "content": "Introduction",
         "title": "Difference between Internal Combustion Engine and External Combustion Engine, Components of IC Engine",
         "youtubeLink": "https://www.youtube.com/embed/JJLfBsrH-TE",
-        "id": "Introduction"
+        "id": "Introduction-of-Internal-Combustion-Engines"
     },
     {
         "chapter": "Internal Combustion Engines",
