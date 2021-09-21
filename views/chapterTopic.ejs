@@ -6,12 +6,12 @@
     </head>
     <body class="font-inter">
         <%- include('./partials/navbar.ejs');%>
-        <div class="flex flex-col md:flex-row justify-center">
+        <div class="relative flex flex-col md:flex-row justify-center">
             <div class="w-screen md:w-3/4 md:h-auto md:max-h-[80vh] bg-black">
                 <iframe class="w-[100%] h-64 max-w-screen-lg md:h-[100%] mx-auto" src="<%=topicYoutubeLink%>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="bg-indigo-100">
+                <div id="chapter" class="bg-indigo-100">
                     <h1 class="p-6 text-xl md:text-2xl text-gray-700 font-semibold"><%= topicTitle %> from <%= chapterName %></h1>
-                    <div id="chapter" class="!hidden mt-1 md:!flex flex-col justify-center items-center bg-indigo-100">
+                    <div class="!hidden mt-1 md:!flex flex-col justify-center items-center bg-indigo-100">
                         <h1 class="font-medium text-3xl py-3 w-full text-center text-gray-200 bg-indigo-500">Chapters</h1>
                         <%- include('./partials/chapters.ejs');%>
                     </div>
@@ -20,10 +20,10 @@
             <!-- <div class="w-auto md:w-1/4 flex flex-col justify-center md:max-h-screen md:overflow-y-scroll"> -->
             <div class="w-auto md:w-1/4 flex flex-col justify-start">
                 <div class="bg-indigo-500 text-3xl md:text-3xl py-4 md:py-5 text-white text-center font-medium md:font-semibold">Next Topics</div>
-                <% bmeJsonData.forEach((element,index)=> { %> <% if(chapterName==element.chapter.replace(/ /g, '-')){ %>
+                <% bmeJsonData.forEach((element)=> { %> <% if(chapterName==element.chapter.replace(/ /g, '-')){ %>
                 <div class="text-base md:text-xs p-3 topic-list text-gray-700 flex flex-row justify-start">
                     <div class="mr-1.5 relative bottom-0.5"><i class="fa fa-chevron-circle-right text-base text-gray-400"></i></div>
-                    <a href="/<%=chapterName%>/<%=element.id%>"><%=index+1%>. <%=element.title%></a>
+                    <a href="/<%=chapterName%>/<%=element.id%>"> <%=element.title%></a>
                 </div>
                 <% } %> <% }) %>
             </div>
@@ -31,6 +31,9 @@
         <div id="chapter" class="md:!hidden mt-1 flex flex-col justify-center items-center bg-indigo-100">
             <h1 class="font-medium text-3xl py-3 w-full text-center text-gray-200 bg-indigo-500">Chapters</h1>
             <%- include('./partials/chapters.ejs');%>
+        </div>
+        <div class="block md:hidden">
+            <%- include('./partials/footer.ejs');%>
         </div>
     </body>
 </html>

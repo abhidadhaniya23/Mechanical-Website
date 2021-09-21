@@ -26,7 +26,7 @@ html{
 
 .navbar-active{
     /* top: 6rem !important; */
-    @apply pb-36 opacity-100;
+    @apply pb-44 opacity-100;
 }
 .links-active{
     @apply flex opacity-100;
@@ -62,4 +62,30 @@ html{
     100%{
         @apply left-0 opacity-100;
     }
+}
+
+
+/* scroll bar */
+/* width */
+::-webkit-scrollbar {
+	height: 5px;
+  	width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+  border-radius: 500px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #080b2e2e;
+  border-radius: 500px;
+  transition: 0.4s ease;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #7a7f9c;
 }
