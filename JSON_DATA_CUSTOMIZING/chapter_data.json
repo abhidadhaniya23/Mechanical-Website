@@ -25,11 +25,11 @@
     },
     {
         "chapter": "Steam Generator (Boiler)",
-        "chapterId": "Steam-Generator-Boiler",
+        "chapterId": "Steam-Generator-(Boiler)",
         "content": "Boiler – Introduction",
         "title": "Introduction to Boiler (Steam Generator), Classification of Boiler.",
         "youtubeLink": "https://www.youtube.com/embed/6Bw6HFni12o",
-        "id": "Boiler-–-Introduction"
+        "id": "Boiler-Introduction"
     },
     {
         "chapter": "Heat Engines",

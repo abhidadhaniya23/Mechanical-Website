@@ -321,15 +321,15 @@
     },
     {
         "chapter": "Steam Generator (Boiler)",
-        "chapterId": "Steam-Generator-Boiler",
+        "chapterId": "Steam-Generator-(Boiler)",
         "content": "Boiler – Introduction",
         "title": "Introduction to Boiler (Steam Generator), Classification of Boiler.",
         "youtubeLink": "https://www.youtube.com/embed/6Bw6HFni12o",
-        "id": "Boiler-–-Introduction"
+        "id": "Boiler-Introduction"
     },
     {
         "chapter": "Steam Generator (Boiler)",
-        "chapterId": "Steam-Generator-Boiler",
+        "chapterId": "Steam-Generator-(Boiler)",
         "content": "Working of Boilers",
         "title": "Construction and Working of Cochran Boiler",
         "youtubeLink": "https://www.youtube.com/embed/ffIWSbaHmlc",
@@ -337,7 +337,7 @@
     },
     {
         "chapter": "Steam Generator (Boiler)",
-        "chapterId": "Steam-Generator-Boiler",
+        "chapterId": "Steam-Generator-(Boiler)",
         "content": "Working of Boilers",
         "title": "Construction and Working of Lancashire Boiler",
         "youtubeLink": "https://www.youtube.com/embed/aLOm-tsg9Gs",
@@ -345,7 +345,7 @@
     },
     {
         "chapter": "Steam Generator (Boiler)",
-        "chapterId": "Steam-Generator-Boiler",
+        "chapterId": "Steam-Generator-(Boiler)",
         "content": "Working of Boilers",
         "title": "Construction and Working of Babcock and Wilcox Boiler",
         "youtubeLink": "https://www.youtube.com/embed/PvKt7PsErpI",
@@ -353,7 +353,7 @@
     },
     {
         "chapter": "Steam Generator (Boiler)",
-        "chapterId": "Steam-Generator-Boiler",
+        "chapterId": "Steam-Generator-(Boiler)",
         "content": "Boiler Mountings and Accessories",
         "title": "Boiler Mountings and Accessories, Importance of Boiler Mountings and Accessories and Difference Between Boiler Mountings and Accessories",
         "youtubeLink": "https://www.youtube.com/embed/vnVpZC2ecBk",
@@ -361,7 +361,7 @@
     },
     {
         "chapter": "Steam Generator (Boiler)",
-        "chapterId": "Steam-Generator-Boiler",
+        "chapterId": "Steam-Generator-(Boiler)",
         "content": "Boiler Mountings Part I",
         "title": "Location, Function, Working of Pressure Gauge, Water Level Indicator, Steam Stop Valve",
         "youtubeLink": "https://www.youtube.com/embed/Q28AzChscQw",
@@ -369,7 +369,7 @@
     },
     {
         "chapter": "Steam Generator (Boiler)",
-        "chapterId": "Steam-Generator-Boiler",
+        "chapterId": "Steam-Generator-(Boiler)",
         "content": "Boiler Mountings Part II",
         "title": "Location, Function, Working of Feed Check Valve, Fusible Plug, Blow Off Cock",
         "youtubeLink": "https://www.youtube.com/embed/UH9C_Wa2RFo",
@@ -377,7 +377,7 @@
     },
     {
         "chapter": "Steam Generator (Boiler)",
-        "chapterId": "Steam-Generator-Boiler",
+        "chapterId": "Steam-Generator-(Boiler)",
         "content": "Boiler Mountings Part III",
         "title": "Location, Function, Working of Different Types of Safety Valves",
         "youtubeLink": "https://www.youtube.com/embed/O7iWP2ZUmA 0",
@@ -385,7 +385,7 @@
     },
     {
         "chapter": "Steam Generator (Boiler)",
-        "chapterId": "Steam-Generator-Boiler",
+        "chapterId": "Steam-Generator-(Boiler)",
         "content": "Boiler Accessories Part I",
         "title": "Location, Function, Working of Super  heater, Economizer, Air Preheater",
         "youtubeLink": "https://www.youtube.com/embed/mHIeTmgbg-8",
@@ -393,7 +393,7 @@
     },
     {
         "chapter": "Steam Generator (Boiler)",
-        "chapterId": "Steam-Generator-Boiler",
+        "chapterId": "Steam-Generator-(Boiler)",
         "content": "Boiler Accessories Part II",
         "title": "Location, Function, Working of Feed Water Heater, Steam Separator, Anti Priming Pipe, Feed Pump",
         "youtubeLink": "https://www.youtube.com/embed/he1lMqV8oMY",

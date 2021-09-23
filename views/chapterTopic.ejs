@@ -11,15 +11,21 @@
                 <iframe class="w-[100%] h-64 max-w-screen-lg md:h-[100%] mx-auto" src="<%=topicYoutubeLink%>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div id="chapter" class="bg-indigo-100">
                     <h1 class="p-6 text-xl md:text-2xl text-gray-700 font-semibold"><%= topicTitle %> from <%= chapterName %></h1>
-                    <div class="py-8 md:block hidden">
+                    <!-- <div class="py-8 md:block hidden">
                         <h2 class="mb-10 py-4 text-3xl text-center font-medium text-gray-200 bg-indigo-500">Reference Books</h2>
                         <div class="px-10">
-                            <%- include('./partials/reference-books.ejs');%>
+                            <%#- include('./partials/reference-books.ejs');%>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="!hidden mt-1 md:!flex flex-col justify-center items-center bg-indigo-100">
                         <h1 class="font-medium text-3xl py-3 w-full text-center text-gray-200 bg-indigo-500">Chapters</h1>
                         <%- include('./partials/chapters.ejs');%>
+                    </div>
+                    <div class="md:block hidden">
+                        <h2 class="mb-10 py-4 text-3xl text-center font-medium text-gray-200 bg-indigo-500">Reference Books</h2>
+                        <div class="px-10 pb-8">
+                            <%- include('./partials/reference-books.ejs');%>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -38,9 +44,9 @@
             <h1 class="font-medium text-3xl py-3 w-full text-center text-gray-200 bg-indigo-500">Chapters</h1>
             <%- include('./partials/chapters.ejs');%>
         </div>
-        <div class="block md:hidden">
+        <div class="block md:hidden bg-indigo-50">
             <h2 class="mb-10 py-4 text-3xl text-center font-medium text-gray-200 bg-indigo-500">Reference Books</h2>
-            <div class="px-10 pb-8">
+            <div class="px-5 pb-8">
                 <%- include('./partials/reference-books.ejs');%>
             </div>
         </div>

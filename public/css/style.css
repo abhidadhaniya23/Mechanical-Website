@@ -774,9 +774,6 @@ video {
 .justify-between{
 	justify-content: space-between;
 }
-.justify-around{
-	justify-content: space-around;
-}
 .rounded-sm{
 	border-radius: 0.125rem;
 }
@@ -829,6 +826,10 @@ video {
 	--tw-bg-opacity: 1;
 	background-color: rgba(99, 102, 241, var(--tw-bg-opacity));
 }
+.bg-indigo-50{
+	--tw-bg-opacity: 1;
+	background-color: rgba(238, 242, 255, var(--tw-bg-opacity));
+}
 .bg-gray-900{
 	--tw-bg-opacity: 1;
 	background-color: rgba(17, 24, 39, var(--tw-bg-opacity));
@@ -840,10 +841,6 @@ video {
 .bg-gray-50{
 	--tw-bg-opacity: 1;
 	background-color: rgba(249, 250, 251, var(--tw-bg-opacity));
-}
-.bg-indigo-50{
-	--tw-bg-opacity: 1;
-	background-color: rgba(238, 242, 255, var(--tw-bg-opacity));
 }
 .bg-indigo-700{
 	--tw-bg-opacity: 1;
@@ -887,6 +884,10 @@ video {
 	padding-top: 0px;
 	padding-bottom: 0px;
 }
+.px-4{
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
 .px-2{
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
@@ -903,10 +904,6 @@ video {
 	padding-top: 0.25rem;
 	padding-bottom: 0.25rem;
 }
-.px-4{
-	padding-left: 1rem;
-	padding-right: 1rem;
-}
 .py-5{
 	padding-top: 1.25rem;
 	padding-bottom: 1.25rem;
@@ -918,6 +915,10 @@ video {
 .px-6{
 	padding-left: 1.5rem;
 	padding-right: 1.5rem;
+}
+.py-6{
+	padding-top: 1.5rem;
+	padding-bottom: 1.5rem;
 }
 .py-2\.5{
 	padding-top: 0.625rem;
