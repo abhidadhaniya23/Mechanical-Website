@@ -8,7 +8,6 @@ app.use(express.static('public'))
 
 // Routes
 const course = require('./routes/course')
-
 app.use('/', course)
 
 // if any page not found
